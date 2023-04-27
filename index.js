@@ -1,8 +1,8 @@
 /**
  * Title: index.js
  * Description: This is the main file for the ece24bot telegram-whatsapp bot.
- * Author: Taha Ahmed
- * Date: March 2023
+ * Author: Dev Chandel
+ * Date: April 2023
  */
 
 // to import the .env file variables
