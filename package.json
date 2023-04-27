@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taham8875/ece24-whatsapp-bot.git"
+    "url": "git+https://github.com/GoojDex/telegram-whatsapp-bot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/taham8875/ece24-whatsapp-bot/issues"
+    "url": "https://github.com/GoojDex/telegram-whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/taham8875/ece24-whatsapp-bot#readme"
+  "homepage": "https://github.com/GoojDex/telegram-whatsapp-bot#readme"
 }
